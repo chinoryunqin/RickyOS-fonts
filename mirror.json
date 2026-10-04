@@ -1,6 +1,10 @@
 {
  "version": 1,
- "baseUrl": "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.1/fonts/",
+ "baseUrl": "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.2/fonts/",
+ "mirrors": [
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.2/fonts/",
+  "https://github.com/chinoryunqin/RickyOS-fonts/releases/download/v1.0.2/"
+ ],
  "families": [
   {
    "name": "RickySans",

@@ -18,6 +18,8 @@
 - `fonts/*.cpfont`：cpfont v4 字体文件，文件名为 `<字体>_<字号>.cpfont`
 - `fonts.json`：清单，下载地址指向本仓库同版本的 GitHub Release
 - `mirror.json`：同一份清单，下载地址经 jsDelivr 镜像本仓库的 `fonts/`
+
+两份清单的 `mirrors` 列出其他存放相同文件的地址，某个文件下载失败时阅读器会依次换用。
 - `sources.json`：每款字体的原始文件、许可证地址及 SHA256
 - `SHA256SUMS`：字体、许可证和清单文件的校验和
 
