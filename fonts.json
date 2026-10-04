@@ -1,6 +1,6 @@
 {
  "version": 1,
- "baseUrl": "https://github.com/chinoryunqin/RickyOS-fonts/releases/download/v1.0.0/",
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-fonts/releases/download/v1.0.1/",
  "families": [
   {
    "name": "RickySans",
@@ -82,7 +82,7 @@
   },
   {
    "name": "LXGWWenKai",
-   "description": "霞鹜文楷 · 温润的楷体风格，适合散文诗词",
+   "description": "LXGW 文楷 · 温润的楷体风格，适合散文诗词",
    "styles": [
     "regular"
    ],
