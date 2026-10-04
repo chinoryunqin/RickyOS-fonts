@@ -1,0 +1,57 @@
+{
+ "sizes": [
+  12,
+  14,
+  16,
+  18,
+  20,
+  22
+ ],
+ "flash_cache_limit": 6549504,
+ "families": [
+  {
+   "family": "RickySans",
+   "origin": "Source Han Sans CN 2.005 (Adobe)",
+   "font": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2/SubsetOTF/CN/SourceHanSansCN-Regular.otf",
+   "font_sha256": "e2bc8a2e7f37474b774fff8db758681ece40bb6947a90d571bce9dd60671a8e4",
+   "license": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2/LICENSE.txt",
+   "license_sha256": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
+   "han_glyphs": 9726,
+   "intervals": 4000,
+   "largest_file": 4927753
+  },
+  {
+   "family": "RickySerif",
+   "origin": "Source Han Serif CN 2.003 (Adobe)",
+   "font": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/7889f11bf31170b5d092a083b357c8c8130f89e0/SubsetOTF/CN/SourceHanSerifCN-Regular.otf",
+   "font_sha256": "3754ea669c530e2473354f8f6d9f79680a44d7e26ec7d00eeabee4a7e0753c5d",
+   "license": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/7889f11bf31170b5d092a083b357c8c8130f89e0/LICENSE.txt",
+   "license_sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
+   "han_glyphs": 9726,
+   "intervals": 4000,
+   "largest_file": 5027151
+  },
+  {
+   "family": "LXGWWenKai",
+   "origin": "LXGW WenKai v1.522",
+   "font": "https://github.com/lxgw/LxgwWenKai/releases/download/v1.522/LXGWWenKai-Regular.ttf",
+   "font_sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+   "license": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/v1.522/OFL.txt",
+   "license_sha256": "c38b1994a5e48ac30ac7d1da7d0409fd8fd8127dfe28a13d6e787d5b1ef34a5e",
+   "han_glyphs": 9727,
+   "intervals": 4000,
+   "largest_file": 4849850
+  },
+  {
+   "family": "RickyGrin",
+   "origin": "Smiley Sans v2.0.1 (atelierAnchor)",
+   "font": "https://github.com/atelier-anchor/smiley-sans/releases/download/v2.0.1/smiley-sans-v2.0.1.zip",
+   "font_sha256": "299c0be6c960ae37361762eca76f7d0cd516615435bb96c0d4b98a1e70178a07",
+   "license": "https://raw.githubusercontent.com/atelier-anchor/smiley-sans/v2.0.1/LICENSE",
+   "license_sha256": "9401f4050f1b66c26b6ccdc8b0e14a3c1cc37aac122eda84386f25854a9bec72",
+   "han_glyphs": 6967,
+   "intervals": 3623,
+   "largest_file": 2997768
+  }
+ ]
+}

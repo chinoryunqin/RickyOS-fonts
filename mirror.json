@@ -1,0 +1,162 @@
+{
+ "version": 1,
+ "baseUrl": "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.0/fonts/",
+ "families": [
+  {
+   "name": "RickySans",
+   "description": "思源黑体 · 清晰耐看的无衬线正文字体",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "RickySans_12.cpfont",
+     "size": 1763452,
+     "crc32": 2837099957
+    },
+    {
+     "name": "RickySans_14.cpfont",
+     "size": 2326914,
+     "crc32": 172136119
+    },
+    {
+     "name": "RickySans_16.cpfont",
+     "size": 2836100,
+     "crc32": 420092878
+    },
+    {
+     "name": "RickySans_18.cpfont",
+     "size": 3507452,
+     "crc32": 709614045
+    },
+    {
+     "name": "RickySans_20.cpfont",
+     "size": 4214976,
+     "crc32": 3643789875
+    },
+    {
+     "name": "RickySans_22.cpfont",
+     "size": 4927753,
+     "crc32": 2776596054
+    }
+   ]
+  },
+  {
+   "name": "RickySerif",
+   "description": "思源宋体 · 适合小说长文的衬线字体",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "RickySerif_12.cpfont",
+     "size": 1792807,
+     "crc32": 2774421889
+    },
+    {
+     "name": "RickySerif_14.cpfont",
+     "size": 2368057,
+     "crc32": 3930528726
+    },
+    {
+     "name": "RickySerif_16.cpfont",
+     "size": 2882338,
+     "crc32": 927637832
+    },
+    {
+     "name": "RickySerif_18.cpfont",
+     "size": 3584125,
+     "crc32": 1034384292
+    },
+    {
+     "name": "RickySerif_20.cpfont",
+     "size": 4301235,
+     "crc32": 630421298
+    },
+    {
+     "name": "RickySerif_22.cpfont",
+     "size": 5027151,
+     "crc32": 1531599389
+    }
+   ]
+  },
+  {
+   "name": "LXGWWenKai",
+   "description": "霞鹜文楷 · 温润的楷体风格，适合散文诗词",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "LXGWWenKai_12.cpfont",
+     "size": 1654560,
+     "crc32": 3670983845
+    },
+    {
+     "name": "LXGWWenKai_14.cpfont",
+     "size": 2113112,
+     "crc32": 3408067254
+    },
+    {
+     "name": "LXGWWenKai_16.cpfont",
+     "size": 2653508,
+     "crc32": 618186645
+    },
+    {
+     "name": "LXGWWenKai_18.cpfont",
+     "size": 3412847,
+     "crc32": 268436913
+    },
+    {
+     "name": "LXGWWenKai_20.cpfont",
+     "size": 4097885,
+     "crc32": 3567506091
+    },
+    {
+     "name": "LXGWWenKai_22.cpfont",
+     "size": 4849850,
+     "crc32": 753867106
+    }
+   ]
+  },
+  {
+   "name": "RickyGrin",
+   "description": "基于得意黑 · 俏皮的斜体黑体，仅含简体常用字",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "RickyGrin_12.cpfont",
+     "size": 1046118,
+     "crc32": 1572627967
+    },
+    {
+     "name": "RickyGrin_14.cpfont",
+     "size": 1332884,
+     "crc32": 3677988872
+    },
+    {
+     "name": "RickyGrin_16.cpfont",
+     "size": 1694195,
+     "crc32": 1245850376
+    },
+    {
+     "name": "RickyGrin_18.cpfont",
+     "size": 2082422,
+     "crc32": 2072115437
+    },
+    {
+     "name": "RickyGrin_20.cpfont",
+     "size": 2494862,
+     "crc32": 1300152672
+    },
+    {
+     "name": "RickyGrin_22.cpfont",
+     "size": 2997768,
+     "crc32": 3083530197
+    }
+   ]
+  }
+ ]
+}
