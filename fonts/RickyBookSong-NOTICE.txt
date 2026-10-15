@@ -1,0 +1,1 @@
+RickyBookSong 是 LXGW Neo ZhiSong v1.067 的衍生字体：只把常用汉字、拉丁字母和标点转换为RickyOS 的 cpfont 位图格式，字形未作改动，按 IPA Font License 1.0 授权。原始字体：https://github.com/lxgw/LxgwNeoZhiSong/releases/tag/v1.067 ，在阅读器的字体设置中删除本字体并改用原始字体即可替换回去。

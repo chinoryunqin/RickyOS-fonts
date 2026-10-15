@@ -1,9 +1,10 @@
 {
  "version": 1,
- "baseUrl": "https://github.com/chinoryunqin/RickyOS-fonts/releases/download/v1.0.2/",
+ "baseUrl": "https://github.com/chinoryunqin/RickyOS-fonts/releases/download/v1.1.0/",
  "mirrors": [
-  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.2/fonts/",
-  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.0.2/fonts/"
+  "https://cdn.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.1.0/fonts/",
+  "https://fastly.jsdelivr.net/gh/chinoryunqin/RickyOS-fonts@v1.1.0/fonts/",
+  "https://rickyos-1309217881.cos.ap-guangzhou.myqcloud.com/fonts/v1.1.0/"
  ],
  "families": [
   {
@@ -42,6 +43,31 @@
      "name": "RickySans_22.cpfont",
      "size": 4927753,
      "crc32": 2776596054
+    },
+    {
+     "name": "RickySans_24.cpfont",
+     "size": 5901501,
+     "crc32": 706634215
+    },
+    {
+     "name": "RickySans_26.cpfont",
+     "size": 6963362,
+     "crc32": 3456318346
+    },
+    {
+     "name": "RickySans_28.cpfont",
+     "size": 7863186,
+     "crc32": 2636320435
+    },
+    {
+     "name": "RickySans_30.cpfont",
+     "size": 8887759,
+     "crc32": 1522396032
+    },
+    {
+     "name": "RickySans_32.cpfont",
+     "size": 10149476,
+     "crc32": 3946763489
     }
    ]
   },
@@ -81,6 +107,31 @@
      "name": "RickySerif_22.cpfont",
      "size": 5027151,
      "crc32": 1531599389
+    },
+    {
+     "name": "RickySerif_24.cpfont",
+     "size": 6024869,
+     "crc32": 3421702727
+    },
+    {
+     "name": "RickySerif_26.cpfont",
+     "size": 7110935,
+     "crc32": 3474405583
+    },
+    {
+     "name": "RickySerif_28.cpfont",
+     "size": 8018612,
+     "crc32": 1898077780
+    },
+    {
+     "name": "RickySerif_30.cpfont",
+     "size": 9064377,
+     "crc32": 2729069009
+    },
+    {
+     "name": "RickySerif_32.cpfont",
+     "size": 10372169,
+     "crc32": 3961452064
     }
    ]
   },
@@ -120,6 +171,31 @@
      "name": "LXGWWenKai_22.cpfont",
      "size": 4849850,
      "crc32": 753867106
+    },
+    {
+     "name": "LXGWWenKai_24.cpfont",
+     "size": 5655537,
+     "crc32": 987799147
+    },
+    {
+     "name": "LXGWWenKai_26.cpfont",
+     "size": 6553135,
+     "crc32": 1649125215
+    },
+    {
+     "name": "LXGWWenKai_28.cpfont",
+     "size": 7505186,
+     "crc32": 2945748275
+    },
+    {
+     "name": "LXGWWenKai_30.cpfont",
+     "size": 8787003,
+     "crc32": 999435410
+    },
+    {
+     "name": "LXGWWenKai_32.cpfont",
+     "size": 9881801,
+     "crc32": 2914040470
     }
    ]
   },
@@ -159,6 +235,223 @@
      "name": "RickyGrin_22.cpfont",
      "size": 2997768,
      "crc32": 3083530197
+    },
+    {
+     "name": "RickyGrin_24.cpfont",
+     "size": 3507106,
+     "crc32": 2681538543
+    },
+    {
+     "name": "RickyGrin_26.cpfont",
+     "size": 4066746,
+     "crc32": 203905808
+    },
+    {
+     "name": "RickyGrin_28.cpfont",
+     "size": 4698552,
+     "crc32": 217589803
+    },
+    {
+     "name": "RickyGrin_30.cpfont",
+     "size": 5355036,
+     "crc32": 2282515447
+    },
+    {
+     "name": "RickyGrin_32.cpfont",
+     "size": 6051505,
+     "crc32": 354749838
+    }
+   ]
+  },
+  {
+   "name": "RickyBookSong",
+   "description": "基于 LXGW 新致宋 · 书卷气的宋体，适合长篇阅读",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "RickyBookSong_12.cpfont",
+     "size": 1616226,
+     "crc32": 206113655
+    },
+    {
+     "name": "RickyBookSong_14.cpfont",
+     "size": 2113665,
+     "crc32": 2988801195
+    },
+    {
+     "name": "RickyBookSong_16.cpfont",
+     "size": 2649812,
+     "crc32": 2305982013
+    },
+    {
+     "name": "RickyBookSong_18.cpfont",
+     "size": 3382923,
+     "crc32": 1145707904
+    },
+    {
+     "name": "RickyBookSong_20.cpfont",
+     "size": 4081974,
+     "crc32": 2810941692
+    },
+    {
+     "name": "RickyBookSong_22.cpfont",
+     "size": 4835607,
+     "crc32": 4087182357
+    },
+    {
+     "name": "RickyBookSong_24.cpfont",
+     "size": 5627898,
+     "crc32": 95794476
+    },
+    {
+     "name": "RickyBookSong_26.cpfont",
+     "size": 6488861,
+     "crc32": 173577619
+    },
+    {
+     "name": "RickyBookSong_28.cpfont",
+     "size": 7482777,
+     "crc32": 147064749
+    },
+    {
+     "name": "RickyBookSong_30.cpfont",
+     "size": 8737620,
+     "crc32": 4102620991
+    },
+    {
+     "name": "RickyBookSong_32.cpfont",
+     "size": 9814855,
+     "crc32": 2941430748
+    }
+   ]
+  },
+  {
+   "name": "ZhuqueFangsong",
+   "description": "朱雀仿宋 · 古雅清秀的仿宋，适合小说散文",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "ZhuqueFangsong_12.cpfont",
+     "size": 1483484,
+     "crc32": 105476867
+    },
+    {
+     "name": "ZhuqueFangsong_14.cpfont",
+     "size": 1930195,
+     "crc32": 3604292112
+    },
+    {
+     "name": "ZhuqueFangsong_16.cpfont",
+     "size": 2428922,
+     "crc32": 2075337989
+    },
+    {
+     "name": "ZhuqueFangsong_18.cpfont",
+     "size": 3011285,
+     "crc32": 3123374427
+    },
+    {
+     "name": "ZhuqueFangsong_20.cpfont",
+     "size": 3635489,
+     "crc32": 3418723557
+    },
+    {
+     "name": "ZhuqueFangsong_22.cpfont",
+     "size": 4350154,
+     "crc32": 860325109
+    },
+    {
+     "name": "ZhuqueFangsong_24.cpfont",
+     "size": 5107820,
+     "crc32": 1463296760
+    },
+    {
+     "name": "ZhuqueFangsong_26.cpfont",
+     "size": 5951226,
+     "crc32": 3700246350
+    },
+    {
+     "name": "ZhuqueFangsong_28.cpfont",
+     "size": 6846685,
+     "crc32": 1277196867
+    },
+    {
+     "name": "ZhuqueFangsong_30.cpfont",
+     "size": 7793693,
+     "crc32": 958496480
+    },
+    {
+     "name": "ZhuqueFangsong_32.cpfont",
+     "size": 8834708,
+     "crc32": 3731794566
+    }
+   ]
+  },
+  {
+   "name": "RickyRound",
+   "description": "基于思源柔黑 · 圆润柔和的圆体",
+   "styles": [
+    "regular"
+   ],
+   "files": [
+    {
+     "name": "RickyRound_12.cpfont",
+     "size": 1668142,
+     "crc32": 1179682398
+    },
+    {
+     "name": "RickyRound_14.cpfont",
+     "size": 2152759,
+     "crc32": 2734772654
+    },
+    {
+     "name": "RickyRound_16.cpfont",
+     "size": 2727554,
+     "crc32": 1425931618
+    },
+    {
+     "name": "RickyRound_18.cpfont",
+     "size": 3356411,
+     "crc32": 3517949351
+    },
+    {
+     "name": "RickyRound_20.cpfont",
+     "size": 4059548,
+     "crc32": 3946888015
+    },
+    {
+     "name": "RickyRound_22.cpfont",
+     "size": 4862821,
+     "crc32": 3188543863
+    },
+    {
+     "name": "RickyRound_24.cpfont",
+     "size": 5692958,
+     "crc32": 3448479899
+    },
+    {
+     "name": "RickyRound_26.cpfont",
+     "size": 6609729,
+     "crc32": 462305980
+    },
+    {
+     "name": "RickyRound_28.cpfont",
+     "size": 7628303,
+     "crc32": 3171576239
+    },
+    {
+     "name": "RickyRound_30.cpfont",
+     "size": 8689931,
+     "crc32": 3745998922
+    },
+    {
+     "name": "RickyRound_32.cpfont",
+     "size": 9836775,
+     "crc32": 619250181
     }
    ]
   }

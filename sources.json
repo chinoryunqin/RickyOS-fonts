@@ -5,7 +5,12 @@
   16,
   18,
   20,
-  22
+  22,
+  24,
+  26,
+  28,
+  30,
+  32
  ],
  "flash_cache_limit": 6549504,
  "families": [
@@ -18,7 +23,7 @@
    "license_sha256": "fcac737e761ec63dbfbdce11030a1780161920d80315edba9c8beff1c2bac5a2",
    "han_glyphs": 9726,
    "intervals": 4000,
-   "largest_file": 4927753
+   "largest_file": 10149476
   },
   {
    "family": "RickySerif",
@@ -29,7 +34,7 @@
    "license_sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
    "han_glyphs": 9726,
    "intervals": 4000,
-   "largest_file": 5027151
+   "largest_file": 10372169
   },
   {
    "family": "LXGWWenKai",
@@ -40,7 +45,7 @@
    "license_sha256": "c38b1994a5e48ac30ac7d1da7d0409fd8fd8127dfe28a13d6e787d5b1ef34a5e",
    "han_glyphs": 9727,
    "intervals": 4000,
-   "largest_file": 4849850
+   "largest_file": 9881801
   },
   {
    "family": "RickyGrin",
@@ -51,7 +56,40 @@
    "license_sha256": "9401f4050f1b66c26b6ccdc8b0e14a3c1cc37aac122eda84386f25854a9bec72",
    "han_glyphs": 6967,
    "intervals": 3623,
-   "largest_file": 2997768
+   "largest_file": 6051505
+  },
+  {
+   "family": "RickyBookSong",
+   "origin": "LXGW Neo ZhiSong v1.067 (LXGW, IPA Font License 1.0)",
+   "font": "https://github.com/lxgw/LxgwNeoZhiSong/releases/download/v1.067/LXGWNeoZhiSong.ttf",
+   "font_sha256": "32b398f9c6278c4ed34f413077add2c2f3c84034d463af2b9cb98f12c4c2c6cd",
+   "license": "https://raw.githubusercontent.com/lxgw/LxgwNeoZhiSong/v1.067/LICENSE.md",
+   "license_sha256": "1483c7de02dcf8b9c54b3b1aacabf7d6bdf32d412ca6724c0292ea68e862d8cf",
+   "han_glyphs": 9653,
+   "intervals": 4000,
+   "largest_file": 9814855
+  },
+  {
+   "family": "ZhuqueFangsong",
+   "origin": "Zhuque Fangsong v0.212 (TrionesType)",
+   "font": "https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
+   "font_sha256": "bb8b661a7643d2296a72d9d10530a00949419c4e527fb61783f73c2ba1a8c062",
+   "license": "https://raw.githubusercontent.com/TrionesType/zhuque/v0.212/LICENSE.txt",
+   "license_sha256": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+   "han_glyphs": 9196,
+   "intervals": 4000,
+   "largest_file": 8834708
+  },
+  {
+   "family": "RickyRound",
+   "origin": "Resource Han Rounded CN v0.990 (CyanoHao)",
+   "font": "https://github.com/CyanoHao/Resource-Han-Rounded/releases/download/v0.990/RHR-CN-0.990.7z",
+   "font_sha256": "e7005f7b4a7a0b8352d32c4a1358ff47564eb73be7fdb2db00d9f792755e9dc7",
+   "license": "https://raw.githubusercontent.com/CyanoHao/Resource-Han-Rounded/be90fee7a031c1297da5a260ccfb91756088d51c/OFL-License.txt",
+   "license_sha256": "586a072c53a12f6e4389f0eb6034f9780afcb9f0a49558e9ed299664ab1107d8",
+   "han_glyphs": 9726,
+   "intervals": 4000,
+   "largest_file": 9836775
   }
  ]
 }
